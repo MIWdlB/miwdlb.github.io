@@ -20,6 +20,3 @@ Content
 - Quantum Information & Communication
 - Quantum Algorithms
 - Quantum Computing Hardware
-
-Heading 3
-======
