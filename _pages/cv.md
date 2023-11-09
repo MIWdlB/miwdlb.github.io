@@ -11,41 +11,35 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* MPhys Theoretical Physics, University of St. Andrews, 2019
+* MRes Quantum Technologies, University College London, 2021
+* Ph.D Chemistry, University College London, (in progress)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2019-2020: Software Engineer
+  * Microsoft
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* Summer 2017: Research Intern
+  * Max Planck Institute for Gravitational Physics
+  * Duties included: Develop an undergraduate teaching laboratory on the topic of interferometry.
+  * Supervisor: Dr. Michael Tröbs
+
+* Spring 2017: Research Intern
+  * University of St. Andrews
+  * Duties included: Qualitative Research on misconceptions held by students regarding quantum mechanics.
+  * Supervisor: Dr. Antje Kohnle
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Quantum Iformation & Computing
+* Software Development
+* Teaching
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
 Teaching
@@ -54,6 +48,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams

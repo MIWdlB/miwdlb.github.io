@@ -8,7 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-
-A data-driven personal website
-======
+I am a PhD Student in the Delivering Quantum Technologies CDT at University College London. My research focuses on resource reduction for quanum algorithms which simulate chemistry.
 
