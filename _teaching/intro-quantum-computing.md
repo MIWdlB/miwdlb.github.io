@@ -4,7 +4,7 @@ collection: teaching
 type: "Summer Course"
 permalink: /teaching/intro-quantum-computing
 venue: "Imperial College London"
-date: 2023
+date: 2023-08-01
 location: "London, UK"
 ---
 
