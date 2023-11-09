@@ -20,3 +20,7 @@ Content
 - Quantum Information & Communication
 - Quantum Algorithms
 - Quantum Computing Hardware
+
+Course Materials
+======
+A copy of the course materials can be found [here](/files/Intro_to_QC_from_CompSci.pdf).
