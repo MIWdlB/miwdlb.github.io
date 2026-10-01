@@ -47,20 +47,30 @@ $type-size-8                : 0.625em;  // ~10px
    Colors
    ========================================================================== */
 
-$gray                       : #7a8288;
-$dark-gray                  : mix(#000, $gray, 40%);
-$darker-gray                : mix(#000, $gray, 60%);
-$light-gray                 : mix(#fff, $gray, 50%);
-$lighter-gray               : mix(#fff, $gray, 90%);
+/* palette: dark green with reddish light grey text */
+$green-900                  : #0c1913;
+$green-800                  : #12261d;
+$green-700                  : #1a3327;
+$green-600                  : #2c4a3b;
+$rose-grey-100              : #ece2df;
+$rose-grey-300              : #d9cac6;
+$rose-grey-500              : #ab9a96;
+$sage                       : #9fd1b2;
 
-$body-color                 : #fff;
-$background-color           : #fff;
-$code-background-color      : #fafafa;
-$code-background-color-dark : $light-gray;
-$text-color                 : $dark-gray;
-$border-color               : $lighter-gray;
+$gray                       : $rose-grey-500;
+$dark-gray                  : $rose-grey-300;
+$darker-gray                : $rose-grey-100;
+$light-gray                 : $green-600;
+$lighter-gray               : $green-700;
 
-$primary-color              : #7a8288;
+$body-color                 : $green-800;
+$background-color           : $green-800;
+$code-background-color      : $green-900;
+$code-background-color-dark : $green-600;
+$text-color                 : $rose-grey-300;
+$border-color               : $green-600;
+
+$primary-color              : $sage;
 $success-color              : #62c462;
 $warning-color              : #f89406;
 $danger-color               : #ee5f5b;
@@ -90,11 +100,11 @@ $xing-color                 : #006567;
 
 
 /* links */
-$link-color                 : $info-color;
-$link-color-hover           : mix(#000, $link-color, 25%);
-$link-color-visited         : mix(#fff, $link-color, 25%);
+$link-color                 : $sage;
+$link-color-hover           : #c6e8d3;
+$link-color-visited         : mix($rose-grey-300, $sage, 35%);
 $masthead-link-color        : $primary-color;
-$masthead-link-color-hover  : mix(#000, $primary-color, 25%);
+$masthead-link-color-hover  : #c6e8d3;
 
 
 /*

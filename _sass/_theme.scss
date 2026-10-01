@@ -1,0 +1,112 @@
+/* ==========================================================================
+   Dark green theme overrides
+   ========================================================================== */
+
+h1, h2, h3, h4, h5, h6,
+.page__title,
+.archive__item-title,
+.author__name {
+  color: $rose-grey-100;
+}
+
+.masthead {
+  background-color: $green-900;
+}
+
+.masthead__inner-wrap {
+  background-color: transparent;
+}
+
+.masthead__menu-item a,
+.masthead__menu-item--lg a {
+  color: $rose-grey-300;
+}
+
+.page__footer {
+  background-color: $green-900;
+  border-top-color: $green-600;
+}
+
+.page__footer,
+.page__footer a,
+.page__footer-follow,
+.page__footer-copyright {
+  color: $rose-grey-500;
+}
+
+.page__footer a:hover {
+  color: $link-color-hover;
+}
+
+.archive__item-excerpt,
+.page__meta,
+.page__date,
+.author__bio {
+  color: $rose-grey-500;
+}
+
+.btn--inverse,
+.author__urls-wrapper button {
+  color: $rose-grey-300 !important;
+  background-color: $green-700;
+  border-color: $green-600 !important;
+}
+
+.author__urls {
+  background-color: $green-900;
+  border-color: $green-600;
+  &:before { border-color: $green-600 transparent; }
+  &:after { border-color: $green-900 transparent; }
+}
+
+.author__avatar img {
+  border-color: $green-600;
+}
+
+table, th, td {
+  color: $rose-grey-300;
+}
+
+code, pre, tt {
+  color: $rose-grey-100;
+}
+
+::selection {
+  color: $green-900;
+  background: $sage;
+}
+
+/* icons with dark brand colours (e.g. GitHub) vanish on green */
+.author__urls i,
+.author__urls .fa,
+.author__urls .fab,
+.author__urls .fas {
+  color: $rose-grey-500;
+}
+
+/* masthead nav, including the collapsed menu on narrow screens */
+.greedy-nav {
+  background: $green-900;
+
+  a { color: $rose-grey-300; }
+  a:hover { color: $link-color-hover; }
+
+  .hidden-links {
+    background: $green-900;
+    border-color: $green-600;
+    &:before { border-color: $green-600 transparent; }
+    &:after { border-color: $green-900 transparent; }
+  }
+
+  button {
+    background: $green-700;
+    &:hover { background: $green-600; }
+  }
+}
+
+/* dark text on the light sage buttons */
+.btn,
+.btn--primary {
+  color: $green-900 !important;
+  &:hover { color: $green-900 !important; background-color: $link-color-hover; }
+}

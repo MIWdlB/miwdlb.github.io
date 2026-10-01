@@ -11,6 +11,12 @@ redirect_from:
 
 Glasgow, Scotland · [michael.williams.20@ucl.ac.uk](mailto:michael.williams.20@ucl.ac.uk)
 
+{% comment %}
+  The PDF below is a static copy and does not update with this page.
+  When you edit the CV content here, also replace files/Michael_Williams_de_la_Bastida_CV.pdf.
+{% endcomment %}
+<a href="{{ base_path }}/files/Michael_Williams_de_la_Bastida_CV.pdf" class="btn btn--primary" download><i class="fas fa-fw fa-download"></i> Download CV (PDF)</a>
+
 Education
 ======
 * PhD Chemistry, University College London, London (in progress, completion 2026)
