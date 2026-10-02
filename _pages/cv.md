@@ -32,24 +32,24 @@ Education
 
 Work experience
 ======
-* Lecturer - ProEd Et Al
+* ProEd Et Al - Lecturer
   * July 2023 - Present
   * Introduction to Quantum Computing from Computer Science: 6 hour in-person course for university entrants.
   * Physical Sciences and Programming: 3 day course covering study and careers in physical and information sciences for students in late secondary education.
   * Introduction to Computer Science: 6 hour online course covering classical information theory, physical computing and computational science for students in secondary education.
 
-* Automation Software Engineer - Microsoft
+* Microsoft - Automation Software Engineer
   * September 2019 - September 2020, London
   * Developed cloud automation tools for deployment and life-cycle management of telecoms virtual machines in Python and Rust.
   * Implemented testing and data-validation models for cloud infrastructure.
   * Provided installation engineers with CLI tools for headless debugging, resulting in reduced commissioning time.
 
-* Research Intern - Max Planck Institute for Gravitational Physics
+* Max Planck Institute for Gravitational Physics - Research Intern
   * Summer 2017
   * Duties included: Develop an undergraduate teaching laboratory on the topic of interferometry.
   * Supervisor: Dr. Michael Tröbs
 
-* Research Intern - University of St. Andrews
+* University of St. Andrews - Research Intern
   * Spring 2017
   * Duties included: Qualitative Research on misconceptions held by students regarding quantum mechanics.
   * Supervisor: Dr. Antje Kohnle
