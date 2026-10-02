@@ -67,6 +67,10 @@ Talks
 * "Optimised Fermion-Qubit Encodings", Scientific Computing in Rust 2026, Online, 9 July 2026 ([video](https://www.youtube.com/watch?v=7HQ5W29QhYI))
 * "Optimised Fermion-Qubit Encodings for quantum simulation with reduced circuit depth", QUANTUMatter 2026 (6th Quantum Matter International Conference & Expo), Barcelona, Spain, April 2026
 
+Tutorials
+------
+* "Accelerated Quantum Supercomputing: A Hands-On Tutorial on Quantum-Classical Hybrid Workflows Executed on QPUs and GPUs", SC26, Chicago, USA, 15 November 2026 (upcoming)
+
 Posters
 ------
 * "Optimised Fermion-Qubit Encodings", QCTiP 2026, Oxford, England ([poster PDF]({{ base_path }}/files/QCTiP_2026_Poster.pdf))
