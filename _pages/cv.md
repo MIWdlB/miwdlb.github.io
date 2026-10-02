@@ -61,8 +61,10 @@ Service
 
 Presentations
 ======
-* Talk, QUANTUMatter 2026 (6th Quantum Matter International Conference & Expo), Barcelona, Spain, April 2026
-* Talk, Scientific Computing in Rust 2026
+* Talk: "Optimised Fermion-Qubit Encodings for quantum simulation with reduced circuit depth"
+  * QUANTUMatter 2026 (6th Quantum Matter International Conference & Expo), Barcelona, Spain, April 2026
+* Talk: "Optimised Fermion-Qubit Encodings"
+  * Scientific Computing in Rust 2026
 
 Skills
 ======
