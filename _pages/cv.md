@@ -70,7 +70,7 @@ Talks
 Posters
 ------
 * "Optimised Fermion-Qubit Encodings", QCTiP 2026 ([poster PDF]({{ base_path }}/files/QCTiP_2026_Poster.pdf))
-* "Quantum Multicast Communication for the Quantum Internet", [Careers in Quantum 2022](https://www.quantumcommshub.net/event/careers-in-quantum-2022/?site=wider-community-and-schools) ([poster PDF]({{ base_path }}/files/Careers_in_Quantum_2022_Poster.pdf))
+* "Quantum Multicast Communication for the Quantum Internet", Careers in Quantum 2022 ([poster PDF]({{ base_path }}/files/Careers_in_Quantum_2022_Poster.pdf))
 
 Skills
 ======
