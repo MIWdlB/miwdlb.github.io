@@ -34,7 +34,7 @@ Education
   * First attempt pass in Commercial Pilot's License and Instrument Rating
   * Jet Orientation Course with Multi-crew Co-ordination
 
-Work experience
+Employment
 ======
 * ProEd Et Al - Lecturer
   * July 2023 - Present
