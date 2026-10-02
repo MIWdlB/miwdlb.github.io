@@ -59,12 +59,17 @@ Service
 * Reviewer, Journal of Open Source Software (1 review in 2026)
   * Quantum Computing, Computational Chemistry, Python, Rust, R
 
-Presentations
+Conferences
 ======
-* Talk: "Optimised Fermion-Qubit Encodings"
-  * Scientific Computing in Rust 2026, Online, 9 July 2026
-* Talk: "Optimised Fermion-Qubit Encodings for quantum simulation with reduced circuit depth"
-  * QUANTUMatter 2026 (6th Quantum Matter International Conference & Expo), Barcelona, Spain, April 2026
+
+Talks
+------
+* "Optimised Fermion-Qubit Encodings", Scientific Computing in Rust 2026, Online, 9 July 2026
+* "Optimised Fermion-Qubit Encodings for quantum simulation with reduced circuit depth", QUANTUMatter 2026 (6th Quantum Matter International Conference & Expo), Barcelona, Spain, April 2026
+
+Posters
+------
+* "Optimised Fermion-Qubit Encodings", QCTiP 2026 ([poster PDF]({{ base_path }}/files/QCTiP_2026_Poster.pdf))
 
 Skills
 ======
