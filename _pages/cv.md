@@ -69,7 +69,7 @@ Talks
 
 Tutorials
 ------
-* "Accelerated Quantum Supercomputing: A Hands-On Tutorial on Quantum-Classical Hybrid Workflows Executed on QPUs and GPUs", SC26, Chicago, USA, 15 November 2026 (upcoming)
+* "Accelerated Quantum Supercomputing: A Hands-On Tutorial on Quantum-Classical Hybrid Workflows Executed on QPUs and GPUs", SC26, Chicago, USA, 15 November 2026
 
 Posters
 ------
