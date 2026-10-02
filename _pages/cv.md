@@ -59,6 +59,11 @@ Service
 * Reviewer, Journal of Open Source Software (1 review in 2026)
   * Quantum Computing, Computational Chemistry, Python, Rust, R
 
+Presentations
+======
+* Talk, QUANTUMatter 2026 (6th Quantum Matter International Conference & Expo), Barcelona, Spain, April 2026
+* Talk, Scientific Computing in Rust 2026
+
 Skills
 ======
 * Research: Quantum algorithms, simulation of chemistry, resource reduction of quantum algorithms, education and dissemination
