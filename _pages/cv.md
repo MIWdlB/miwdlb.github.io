@@ -19,13 +19,17 @@ Glasgow, Scotland · [michael.williams.20@ucl.ac.uk](mailto:michael.williams.20@
 
 Education
 ======
-* PhD Chemistry, University College London, London (in progress, completion 2026)
+* PhD Chemistry
   * Resource Reduction for Hybrid Quantum-HPC Simulation of Chemistry
-* MRes Quantum Technologies, University College London, London, 2021 (Distinction)
+  * University College London, London, in progress (completion 2026)
+* MRes Quantum Technologies (Distinction)
   * Embedded Quantum Algorithms for Chemical Structure
-* MPhys Theoretical Physics, University of St Andrews, 2019 (First Class)
+  * University College London, London, 2021
+* MPhys Theoretical Physics (First Class)
   * Examining the Orthogonality Catastrophe with the Kernel Polynomial Method
-* Airline Transport Pilot's License, Flight Training Europe, Jerez, Spain, 2013
+  * University of St Andrews, 2019
+* Airline Transport Pilot's License
+  * Flight Training Europe, Jerez, Spain, 2013
   * 93% average in 14 ATPL theory exams
   * First attempt pass in Commercial Pilot's License and Instrument Rating
   * Jet Orientation Course with Multi-crew Co-ordination
