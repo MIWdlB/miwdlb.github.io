@@ -21,7 +21,7 @@ Education
 ======
 * PhD Chemistry
   * "Resource Reduction for Hybrid Quantum-HPC Simulation of Chemistry"
-  * University College London, London, in progress (completion 2026)
+  * University College London, London, in progress (expected completion February 2027)
 * MRes Quantum Technologies (Distinction)
   * "Embedded Quantum Algorithms for Chemical Structure"
   * University College London, London, 2021
